@@ -40,13 +40,12 @@ I am a **third-year Computer Engineering student** at Chiang Mai University, Tha
   - Implemented backend logic using **TypeScript** and **SQL** for database management.  
   - Developed frontend routes and implemented **CRUD operations** (GET, PUT, POST, DELETE).  
   - Integrated **Facebook** and **Google login** for secure authentication. 
-  ![Project Screenshot](img/pun.jpeg)
 
 #### [UPBEAT Game](https://github.com/TonNattapon/UPBEAT_Group44)  
 - Developed backend services using **Java** and **Spring Boot**.  
 - Developed CRUD operations for the frontend.
 - Created and managed test files to ensure quality and functionality.  
-- Collaborated with a team to integrate backend and frontend services.     
+- Collaborated with a team to integrate backend and frontend services.   
 
 #### [URLs Bookmark Website](https://github.com/JongRhanRhao)  
 - Implemented server-side logic using **TypeScript** and **SQL** for database management.  
