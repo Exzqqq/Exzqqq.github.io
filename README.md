@@ -68,7 +68,7 @@ A web-based system designed to support healthcare professionals in detecting and
 ### 🤝 Let's Connect!  
 - 📧 Email: pariwat3612@gmail.com  
 - 🌐 GitHub: [Exzqqq](https://github.com/Exzqqq)  
-- 📍 Location: Chiang Mai, Thailand  
+- 📍 Location: Thailand  
 
 ---
 
