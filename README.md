@@ -41,8 +41,6 @@ A web-based system designed to support healthcare professionals in detecting and
 
 ---
 
----
-
 ### 🛠️ Projects
 
 
