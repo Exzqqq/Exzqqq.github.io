@@ -30,7 +30,9 @@ I am a **third-year Computer Engineering student** at Chiang Mai University, Tha
 
 ---
 
-### 🛠️ Projects  
+### 🛠️ Projects
+
+
 
 #### [JongRhanRhao](https://github.com/JongRhanRhao)  
 - **Description**:  
@@ -49,14 +51,6 @@ I am a **third-year Computer Engineering student** at Chiang Mai University, Tha
 - Implemented server-side logic using **TypeScript** and **SQL** for database management.  
 - Developed CRUD operations for the frontend.  
 - Integrated Facebook and Google login for seamless user authentication.  
-
-#### [MAIGINLAOJAHARNTAODAINGAI](https://github.com/Exzqqq/MAIGINLAOJAHARNTAODAINGAI)  
-- Built a user-friendly website for alcohol bill calculation.  
-
-#### [URL Shortener](https://github.com/Unlxii/261497-preflight)  
-- Created a backend service using **TypeScript**, **Node.js**, **Express.js**, and **MongoDB**.  
-- Implemented user authentication and testing with **Cypress**.  
-- Generated short URLs using the **nanoid** library.  
 
 ---
 
