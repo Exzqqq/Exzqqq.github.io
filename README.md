@@ -7,7 +7,7 @@ I am a **third-year Computer Engineering student** at Chiang Mai University, Tha
 
 ### 💻 Skills  
 **Languages**:  
-- Java, JavaScript, C++, TypeScript  
+- Java, JavaScript, C++, TypeScript,Python 
 
 **Backend Development**:  
 - Node.js, Spring Boot, Express.js  
@@ -27,6 +27,19 @@ I am a **third-year Computer Engineering student** at Chiang Mai University, Tha
 **Languages**:  
 - Thai: Native  
 - English: Proficient  
+
+---
+### 🛠️ Research Collaboration
+#### [System for Detecting and Analyzing PMDs and Oral Cancer (Version 2)](https://icohold.anamai.moph.go.th:82/)
+A web-based system designed to support healthcare professionals in detecting and analyzing potentially malignant disorders (PMDs) and oral cancer. The platform enhances public dental health surveillance by providing tools for screening, risk assessment, and data analysis.
+
+- **Technical Contributions:**
+	- Developed backend functionality using **Python** and **Flask** to improve system efficiency and scalability.
+	- Collaborated on enhancing features for data processing and visualization to support research requirements.
+	- Assisted in transitioning the platform from Port 82 to Port 85, ensuring seamless migration and system reliability.
+	- Supported integration of advanced analytics to facilitate the project’s goals under the Public Dental Health Surveillance Project.
+
+---
 
 ---
 
