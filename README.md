@@ -35,15 +35,16 @@ I am a **third-year Computer Engineering student** at Chiang Mai University, Tha
 
 
 #### [JongRhanRhao](https://github.com/JongRhanRhao)  
-- **Description**:  
   A website designed for nightlife enthusiasts to check the real-time status of venues, make reservations in just a few steps, and leave reviews for their favorite spots—all from their mobile devices. Venues can also easily manage bookings through the platform.  
 - **Technical Contributions**:  
   - Implemented backend logic using **TypeScript** and **SQL** for database management.  
   - Developed frontend routes and implemented **CRUD operations** (GET, PUT, POST, DELETE).  
   - Integrated **Facebook** and **Google login** for secure authentication. 
+  ![Project Screenshot](/Users/exzq/Documents/fullstax/Exzqqq.github.io/img/pun.jpeg)
 
 #### [UPBEAT Game](https://github.com/TonNattapon/UPBEAT_Group44)  
 - Developed backend services using **Java** and **Spring Boot**.  
+- Developed CRUD operations for the frontend.
 - Created and managed test files to ensure quality and functionality.  
 - Collaborated with a team to integrate backend and frontend services.     
 
