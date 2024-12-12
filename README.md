@@ -6,7 +6,7 @@ I am a **third-year Computer Engineering student** at Chiang Mai University, Tha
 ---
 
 ### 💻 Skills  
-**Languages**:  
+**Coding Languages**:  
 - Java, JavaScript, C++, TypeScript,Python 
 
 **Backend Development**:  
@@ -43,8 +43,6 @@ A web-based system designed to support healthcare professionals in detecting and
 
 ### 🛠️ Projects
 
-
-
 #### [JongRhanRhao](https://github.com/JongRhanRhao)  
   A website designed for nightlife enthusiasts to check the real-time status of venues, make reservations in just a few steps, and leave reviews for their favorite spots—all from their mobile devices. Venues can also easily manage bookings through the platform.  
 - **Technical Contributions**:  
@@ -65,7 +63,7 @@ UPBEAT is a turn-based game where 2+ players compete to claim an entire territor
 - **Technical Contributions**:  
   - Implemented server-side logic using **TypeScript** and **SQL** for database management.  
   - Developed CRUD operations for the frontend.  
-  - Integrated Facebook and Google login for seamless user authentication.  
+  - Conducted end-to-end testing using **Cypress** to test performance of the application.
 
 ---
 
