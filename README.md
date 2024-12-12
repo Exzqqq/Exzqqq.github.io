@@ -55,17 +55,17 @@ A web-based system designed to support healthcare professionals in detecting and
 #### [UPBEAT Game](https://github.com/TonNattapon/UPBEAT_Group44) 
 UPBEAT is a turn-based game where 2+ players compete to claim an entire territory composed of an m×n hexagonal grid. Regions are identified by row and column coordinates, with adjacent columns skewed vertically. Players use construction plans to expand or improve regions, starting with an initial plan that can be revised during the game within a time limit. The game ends when only one player owns all regions in the territory. 
 - **Technical Contributions**:
-- Developed backend services using **Java** and **Spring Boot**.  
-- Developed CRUD operations for the frontend.
-- Created and managed test files to ensure quality and functionality.  
-- Collaborated with a team to integrate backend and frontend services.   
+  - Developed backend services using **Java** and **Spring Boot**.  
+  - Developed CRUD operations for the frontend.
+  - Created and managed test files to ensure quality and functionality.  
+  - Collaborated with a team to integrate backend and frontend services.   
 
 #### [Url-Shortener](https://github.com/Unlxii/261497-preflight)  
   A website designed for shortening URLs and storing them as bookmarks to showcase database management and TypeScript skills.
 - **Technical Contributions**:  
-- Implemented server-side logic using **TypeScript** and **SQL** for database management.  
-- Developed CRUD operations for the frontend.  
-- Integrated Facebook and Google login for seamless user authentication.  
+  - Implemented server-side logic using **TypeScript** and **SQL** for database management.  
+  - Developed CRUD operations for the frontend.  
+  - Integrated Facebook and Google login for seamless user authentication.  
 
 ---
 
